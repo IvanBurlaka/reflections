@@ -1,0 +1,1 @@
+you need to do it in order to make git track the states of your files
